@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✨ Olá! 💜 Eu sou o Pedro Lucas
+# Whats up! I'm Pedro Lucas
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8B5FBF&center=true&vCenter=true&width=500&lines=Developer+%F0%9F%9A%80;Python+%26+JS+enthusiast;AI+%2F+Frontend+builder;Always+learning+something+new+%F0%9F%8C%B1)](https://git.io/typing-svg)
 
